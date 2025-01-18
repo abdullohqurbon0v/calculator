@@ -39,13 +39,3 @@ This will run the app in development mode. Open http://localhost:3000 to view it
 - **TypeScript**: For type safety and better development experience
 - **CSS**: Custom styles for the dark theme and modern design.
 
-## Contributing
-If you'd like to contribute, feel free to fork the repository and make changes. You can also open issues and pull requests.
-
-
- 1. Fork the repository
- 2.Create a new branch (```git checkout -b feature-branch```)
- 1. Make your changes
- 1. Fork the repository
- 1. Fork the repository
- 1. Fork the repository
