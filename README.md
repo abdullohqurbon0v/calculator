@@ -18,7 +18,7 @@ To run the project on your local machine, follow these steps:
 
 ```bash
 git clone https://github.com/abdullohqurbon0v/calculator.git
-cd dark-calculator
+cd calculator
 ```
 ### 2. Install dependencies
 
@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
+This will run the app in development mode. Open http://localhost:5173 to view it in your browser.
 
 ## Technologies Used
 
