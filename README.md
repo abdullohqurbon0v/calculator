@@ -18,7 +18,7 @@ To run the project on your local machine, follow these steps:
 
 ```bash
 git clone https://github.com/abdullohqurbon0v/calculator.git
-cd dark-calculator
+cd calculator
 ```
 ### 2. Install dependencies
 
